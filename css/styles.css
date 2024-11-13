@@ -159,3 +159,10 @@ img
  margin: 0 auto;
   padding: 0 15px;
 }
+nav, a, ul, li
+{
+align-items: center;
+margin-right: 76px;
+gap: 40px;
+padding: 24px 0;
+}
