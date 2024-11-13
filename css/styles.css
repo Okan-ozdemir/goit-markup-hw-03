@@ -1,0 +1,148 @@
+/* header area */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+span {
+  color: #2e2f42;
+}
+
+.menu-item {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.menu_item:hover,
+.menu_item:focus {
+  color: #404bbf;
+}
+
+.contact_info {
+  font-style: normal;
+}
+
+.contact_item {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+
+.contact_item:hover,
+.contact_item:focus {
+  color: #404bbf;
+}
+
+.menu-item a{
+color: #2e2f42;
+}
+a:hover{
+color: #404bbf;
+}
+a:focus{
+color: #404bbf;
+}
+
+/* header area */
+
+/* first section */
+.hero{
+  background-color: #2e2f42;
+}
+
+h1 {
+  font-size: 56px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-align: center;
+  color: #ffffff;
+}
+
+section button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #404bbf;
+}
+
+button:focus {
+  background-color: #404bbf;
+}
+/* first section */
+
+/* second section */
+h3{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+p{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* second section */
+
+/* third section */
+
+section Team{
+background-color: #f4f4fd;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+/* third section */
+
+/* four section */
+
+footer{
+background-color: #2e2f42; 
+}
+footer h3{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42'
+}
+footer p{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+footer span{
+  color: #F4F4FD;
+}
