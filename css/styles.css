@@ -186,7 +186,10 @@ padding: 24px 0;
 
 footer
 { 
-  margin-bottom: 16px;
   padding: 100px 0;
   max-width: 264px;
+}
+footer-a
+{
+  margin-bottom: 16px;
 }
