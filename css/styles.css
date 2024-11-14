@@ -83,6 +83,7 @@ section button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  height: 56px;
 }
 
 button:hover {
@@ -175,7 +176,7 @@ padding: 24px 0;
 display: block;
 padding: 188px 0;
 min-width: 169px;
-height: 56px;
+
 border: none;
 border-radius: 4px;
 }
