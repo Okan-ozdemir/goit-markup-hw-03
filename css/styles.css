@@ -83,7 +83,7 @@ section button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  }
+ }
 
 button:hover {
   background-color: #404bbf;
@@ -112,10 +112,6 @@ p{
 /* second section */
 
 /* third section */
-
-section Team{
-background-color: #f4f4fd;
-}
 
 h2 {
   font-size: 36px;
