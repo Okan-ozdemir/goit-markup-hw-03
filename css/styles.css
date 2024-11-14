@@ -169,7 +169,13 @@ padding: 24px 0;
 /*MAIN*/
 
 /*section first*/
-
+.main-button {
+display: block;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px;
+}
 
 /*section two*/
 /*section three*/
