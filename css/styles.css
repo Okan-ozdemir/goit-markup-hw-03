@@ -168,10 +168,10 @@ padding: 24px 0;
 
 /*section first*/
 .hero-button {
+height: 56px;
 display: block;
 padding: 188px 0;
 min-width: 169px;
-height: 56px;
 border: none;
 border-radius: 4px;
 }
@@ -182,7 +182,6 @@ padding: 120px 0;
 display: flex
 }
 .visually-hidden h2{
-
 }
 /*section three*/
 /*section four*/
