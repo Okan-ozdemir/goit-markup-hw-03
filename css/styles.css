@@ -203,7 +203,10 @@ h3
 {
   margin-bottom: 8px;
 }
-
+.feature-item_
+{
+  width: calc((100% - 72px) / 4);
+}
 /*section three*/
 /*section four*/
 
