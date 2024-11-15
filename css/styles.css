@@ -151,7 +151,7 @@ img
  display: block;
  }
  /*HEADER*/
-.header-container
+div
 {
   width: 1158px;
  margin: 0 auto;
@@ -181,6 +181,7 @@ border-radius: 4px;
 padding: 120px 0;
 display: flex
 }
+
 /*section three*/
 /*section four*/
 
