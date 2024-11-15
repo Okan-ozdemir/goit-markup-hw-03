@@ -176,10 +176,10 @@ border: none;
 border-radius: 4px;
 }
 /*section two*/
-.section-about
+.about-ul
 {
-padding: 120px 0;
-display: flex
+  display: flex;
+  gap: 24px;
 }
 
 /*section three*/
