@@ -215,7 +215,7 @@ padding: 24px 0;
   border: 0;
 }
 
-.about-feature {
+.about-list {
   display: flex;
   gap: 24px;
   list-style: none;
