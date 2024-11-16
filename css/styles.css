@@ -158,7 +158,7 @@ img
   display: flex;
   justify-content: space-between;
   width: 1158px;
- margin: 0 auto;
+  margin: 0 auto;
   padding: 0 15px;
 }
 nav, a, ul, li
@@ -167,7 +167,6 @@ align-items: center;
 margin-right: 76px;
 gap: 40px;
 padding: 24px 0;
-
 }
 
 
@@ -194,13 +193,12 @@ padding: 24px 0;
     }
    
 /*section two*/
-.about-section
+ section .about
 {
   padding: 120px 0;
 }
 .about-features
 {
-  flex-basis: calc((100% - 72px) / 4);
   display: flex;
   gap: 24px;
 }
