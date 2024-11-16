@@ -196,6 +196,10 @@ padding: 24px 0;
 .about-section {
   padding: 120px 0;
 }
+.about-feature{
+  display: flex;
+  gap: 24px;
+}
 
 .container {
   width: 1158px;
