@@ -152,8 +152,11 @@ img
  display: block;
  }
  /*HEADER*/
-div
+.header-container
 {
+  padding: 156px;
+  display: flex;
+  justify-content: space-between;
   width: 1158px;
  margin: 0 auto;
   padding: 0 15px;
@@ -164,6 +167,7 @@ align-items: center;
 margin-right: 76px;
 gap: 40px;
 padding: 24px 0;
+
 }
 
 
