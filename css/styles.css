@@ -169,16 +169,11 @@ margin-right: 76px;
 gap: 40px;
 padding: 24px 0;
 }
-
-
 /*MAIN*/
 
 /*section first*/
-.container {
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
-}
+
+
 .hero-button {
     height: 56px;
     background-color: #007bff;
