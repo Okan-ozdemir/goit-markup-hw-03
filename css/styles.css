@@ -193,25 +193,42 @@ padding: 24px 0;
     }
    
 /*section two*/
-.about-section
-{
+.about-section {
   padding: 120px 0;
 }
-.about-feature
-{
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.feature-list {
   display: flex;
   gap: 24px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
-h3
-{
+
+.feature-item {
+  flex-basis: calc((100% - 72px) / 4);
+}
+
+.feature-title {
   margin-bottom: 8px;
 }
 
-/*section three*/
-.team-section
-{
-padding: 120px 0;
-}
 
 
 /*section four*/
