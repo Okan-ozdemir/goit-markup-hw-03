@@ -197,7 +197,6 @@ padding: 24px 0;
   padding: 120px 0;
 }
 
-
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -211,10 +210,11 @@ padding: 24px 0;
   margin: -1px;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
   border: 0;
 }
 
-.feature-list {
+.about-feature {
   display: flex;
   gap: 24px;
   list-style: none;
@@ -228,28 +228,12 @@ padding: 24px 0;
 
 .feature-title {
   margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: bold;
 }
 
-
-
-/*section four*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*FOOTER*/
-
-footer
-{ 
-  padding: 100px 0;
-  max-width: 264px;
+.feature-text {
+  font-size: 16px;
+  color: #555;
 }
+
