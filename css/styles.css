@@ -217,7 +217,7 @@ padding: 24px 0;
 }
 
 .about-item {
-  width: calc((100% - 72px)/ 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .about-title {
@@ -246,6 +246,12 @@ padding: 24px 0;
 background-color: #F4F4FD;
 }
 /* section four */
+
+.container-
+{
+padding: 32px 16px;
+border-top: none;
+}
 
 .our-list_
 {
