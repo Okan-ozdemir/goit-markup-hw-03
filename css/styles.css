@@ -147,7 +147,11 @@ footer span{
 }
 
 /*HOMEWORK3*/
-
+div{
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 img
 {
  display: block;
