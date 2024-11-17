@@ -151,6 +151,7 @@ img
 {
  display: block;
  }
+
  /*HEADER*/
 .header-container
 {
@@ -171,8 +172,6 @@ padding: 24px 0;
 /*MAIN*/
 
 /*section first*/
-
-
 .hero-button {
     height: 56px;
     background-color: #007bff;
@@ -218,7 +217,7 @@ padding: 24px 0;
 }
 
 .feature-item {
-  flex-basis: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px)/4);
 }
 
 .feature-title {
@@ -246,7 +245,7 @@ padding: 24px 0;
   text-align: center;
   margin-bottom: 8px;
 }
-.team-section
+.team
 {
-
+background-color: #F4F4FD;
 }
