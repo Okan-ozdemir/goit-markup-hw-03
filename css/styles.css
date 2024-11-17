@@ -247,10 +247,6 @@ background-color: #F4F4FD;
 }
 /* section four */
 
-li.our-list {
-  width: calc((100% - 72px) / 4); /* Liste öğesinin genişliği */
-  flex-basis: calc((100% - 3 * 24px) / 4); /* Alternatif kullanım */
-}
 div.container- 
 {
  padding: 32px 16px; /* İçerik boşlukları */
@@ -258,10 +254,20 @@ div.container-
   border-top: none; /* Üst çerçeve kaldırılır */
   margin-bottom: 8px; /* Alt boşluk */
 }
-.our-list_
-{
+.our-list_ {
 display: flex;
-flex-wrap: wrap;
-column-gap: 24px;
-row-gap: 48px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+ flex-wrap: wrap;
+ column-gap: 24px;
+ row-gap: 48px;
+}
+.our-list {
+  flex-basis: calc((100% - 3 * 24px) / 4); /* 4 öğe için genişlik hesaplaması */
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-sizing: border-box; /* Kenar çizgisi ve padding hesaplamaya dahil edilir */
 }
