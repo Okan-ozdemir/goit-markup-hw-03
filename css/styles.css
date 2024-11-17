@@ -239,8 +239,13 @@ padding: 24px 0;
 /*section two finish*/
 
 /* section three */
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
-.div-section-1 h3, p
+.team-list-1 h3, p
 {
   padding: 32px 0;
   text-align: center;
