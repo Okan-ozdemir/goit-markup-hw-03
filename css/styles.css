@@ -216,17 +216,17 @@ padding: 24px 0;
   margin: 0;
 }
 
-.feature-item {
-  flex-basis: calc((100% - 72px)/4);
+.about-item {
+  width: calc((100% - 72px)/ 4);
 }
 
-.feature-title {
+.about-title {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
 }
 
-.feature-text {
+.about-text {
   font-size: 16px;
   color: #555;
 }
