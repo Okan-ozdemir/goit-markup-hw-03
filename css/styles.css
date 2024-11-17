@@ -240,7 +240,7 @@ padding: 24px 0;
 
 /* section three */
 
-.div-section-1, h3, p
+.div-section-1 h3, p
 {
   padding: 32px 0;
   text-align: center;
