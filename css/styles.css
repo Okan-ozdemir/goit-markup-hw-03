@@ -247,11 +247,13 @@ background-color: #F4F4FD;
 }
 /* section four */
 
-.container-
-{
-padding: 32px 16px;
-border-top: none;
+div.container- {
+ padding: 32px 16px; /* İçerik boşlukları */
+  border: 1px solid #e7e9fc; /* Çerçeve stili */
+  border-top: none; /* Üst çerçeve kaldırılır */
+  margin-bottom: 8px; /* Alt boşluk */
 }
+ 
 
 .our-list_
 {
