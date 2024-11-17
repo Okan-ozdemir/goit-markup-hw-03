@@ -249,3 +249,12 @@ padding: 24px 0;
 {
 background-color: #F4F4FD;
 }
+/* section four */
+
+.our-list_
+{
+display: flex;
+flex-wrap: wrap;
+column-gap: 24px;
+row-gap: 48px;
+}
