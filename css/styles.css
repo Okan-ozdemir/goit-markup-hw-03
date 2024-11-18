@@ -62,10 +62,10 @@ a:focus {
 /* header area */
 
 /* first section */
+
 .section-first {
   background-color: #2e2f42;
 }
-
 h1 {
   font-size: 56px;
   letter-spacing: 0.02em;
@@ -110,6 +110,10 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.about-list {
+  display: flex;
+  gap: 24px;
 }
 /* second section */
 
@@ -168,26 +172,17 @@ img {
 .navigation {
   align-items: center;
 }
+
 a {
   margin-right: 76px;
 }
-.nav-list {
-  gap: 40px;
-}
-.address-list {
+.nav-list .address-list {
   gap: 40px;
 }
 
 /* MAIN */
 
 /* section-two */
-.about-list {
-  display: flex;
-  gap: 24px;
-}
-
-/* section-two */
-
 .our-list_ {
   display: flex;
   flex-wrap: wrap;
