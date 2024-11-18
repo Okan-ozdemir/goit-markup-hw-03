@@ -4,7 +4,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-}
+  }
 
 .logo {
   font-family: "Raleway", sans-serif;
@@ -147,4 +147,7 @@ footer span{
   color: #F4F4FD;
 }
 
-
+/*HOMEWORK3*/
+ img{
+  display: block;
+ }
