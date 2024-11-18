@@ -1,10 +1,9 @@
+
 /* header area */
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  justify-content: center;
-  align-content: center;
 }
 
 .logo {
@@ -64,10 +63,9 @@ color: #404bbf;
 /* header area */
 
 /* first section */
-.hero-section{
+.hero{
   background-color: #2e2f42;
-  padding: 188px 0;
-  }
+}
 
 h1 {
   font-size: 56px;
@@ -75,7 +73,6 @@ h1 {
   line-height: 1.07;
   text-align: center;
   color: #ffffff;
-  max-width: 496px;
 }
 
 section button {
@@ -85,7 +82,7 @@ section button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
- }
+}
 
 button:hover {
   background-color: #404bbf;
@@ -115,6 +112,10 @@ p{
 
 /* third section */
 
+section Team{
+background-color: #f4f4fd;
+}
+
 h2 {
   font-size: 36px;
   line-height: 1.11;
@@ -130,8 +131,6 @@ h2 {
 
 footer{
 background-color: #2e2f42; 
-padding: 100px 0; 
-
 }
 footer h3{
 font-weight: 500;
@@ -149,110 +148,4 @@ footer span{
   color: #F4F4FD;
 }
 
-/*HOMEWORK3*/
-img
-{
- display: block;
- }
 
- /*HEADER*/
-.header-container
-{
-  padding: 156px;
-  display: flex;
-  justify-content: space-between;
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
-}
-nav, a, ul, li
-{
-align-items: center;
-margin-right: 76px;
-gap: 40px;
-padding: 24px 0;
-}
-/*MAIN*/
-
-/*section first*/
-.hero-button {
-    height: 56px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    padding: 0 24px;
-    cursor: pointer;
-    margin: 0 auto;
-    min-width: 169px;
-    background-color: #4d5ae5
-    }
-   
-/*section two*/
-.about-section {
-  padding: 120px 0;
-}
-.about-list {
-  display: flex;
-  gap: 24px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.about-item {
-  width: calc((100% - 72px) / 4);
-}
-
-.about-title {
-  margin-bottom: 8px;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.about-text {
-  font-size: 16px;
-  color: #555;
-}
-/*section two finish*/
-
-/* section three */
-
-
-.container_, h3, p
-{
-  padding: 32px 0;
-  text-align: center;
-  margin-bottom: 8px;
-}
-.team
-{
-background-color: #F4F4FD;
-}
-/* section four */
-
-div.container- 
-{
- padding: 32px 16px; /* İçerik boşlukları */
-  border: 1px solid #e7e9fc; /* Çerçeve stili */
-  border-top: none; /* Üst çerçeve kaldırılır */
-  margin-bottom: 8px; /* Alt boşluk */
-}
-.our-list_ {
-display: flex;
-  padding: 0;
-  margin: 0;
-  list-style: none;
- flex-wrap: wrap;
- column-gap: 24px;
- row-gap: 48px;
-}
-.our-list {
-  flex-basis: calc((100% - 3 * 24px) / 4); /* 4 öğe için genişlik hesaplaması */
-  background-color: #f0f0f0;
-  text-align: center;
-  padding: 20px;
-  border: 1px solid #ccc;
-  box-sizing: border-box; /* Kenar çizgisi ve padding hesaplamaya dahil edilir */
-}
