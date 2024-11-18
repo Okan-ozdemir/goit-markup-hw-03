@@ -66,22 +66,15 @@ a:focus {
   background-color: #2e2f42;
 }
 
-.hero-title {
+h1 {
   font-size: 56px;
   letter-spacing: 0.02em;
   line-height: 1.07;
   text-align: center;
   color: #ffffff;
-  margin-top: 0px;
-  width: 496px;
-  height: 120px;
-  align-content: center;
-  padding-top: 188px;
-  padding-left: 472;
 }
 
-.section-first button {
-  font-family: "Roboto", sans-serif;
+button {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
@@ -94,10 +87,11 @@ a:focus {
   border: none;
 }
 
-.hero-button:hover {
+button:hover {
   background-color: #404bbf;
 }
-.hero-button:focus {
+
+button:focus {
   background-color: #404bbf;
 }
 /* first section */
