@@ -160,7 +160,7 @@ img
 {
   padding: 156px;
   display: flex;
-  
+  justify-content: space-between;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
