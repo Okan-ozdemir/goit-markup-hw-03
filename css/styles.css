@@ -76,13 +76,17 @@ h1 {
   color: #ffffff;
 }
 
-section button {
+button {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border-radius: 4px;
+  border: none;
 }
 
 button:hover {
