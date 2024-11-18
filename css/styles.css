@@ -155,17 +155,27 @@ footer span{
 .header-container
 {
   display: flex;
+  align-content: normal;
 }
 .container
 {
   width: 1158px;
   padding: 0 15px;
+  margin: 0 auto;
 }
-nav
+.navigation
 {
   align-items: center;
 }
 a
 {
   margin-right: 76px;
+}
+.nav-list
+{
+  gap: 40px;
+}
+.address-list
+{
+  gap: 40px;
 }
