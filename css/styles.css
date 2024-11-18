@@ -64,7 +64,7 @@ color: #404bbf;
 /* header area */
 
 /* first section */
-.section-1{
+.section-first{
   background-color: #2e2f42;
 }
 
@@ -116,7 +116,7 @@ p{
 /* second section */
 
 /* third section */
-.section-3{
+.section-three{
 background-color: #F4F4FD;
 }
 
@@ -135,6 +135,7 @@ h2 {
 
 footer{
 background-color: #2e2f42; 
+padding: 100px 0;
 }
 footer h3{
 font-weight: 500;
@@ -156,6 +157,9 @@ footer span{
  img{
   display: block;
  }
+
+  /* HEADER */
+ 
 .header-container
 {
   display: flex;
@@ -182,4 +186,13 @@ a
 .address-list
 {
   gap: 40px;
+}
+
+/* MAIN */
+
+/* section-two */
+.about-list
+{
+display: flex;
+gap: 24px;
 }
