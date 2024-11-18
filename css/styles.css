@@ -176,7 +176,10 @@ img {
 a {
   margin-right: 76px;
 }
-.nav-list .contact-list {
+.nav-list {
+  gap: 40px;
+}
+.contact-list {
   gap: 40px;
 }
 
