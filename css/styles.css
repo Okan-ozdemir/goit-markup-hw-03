@@ -65,8 +65,8 @@ color: #404bbf;
 
 /* first section */
 .section-first{
-  background-color: #2e2f42;
-}
+        background-color: #2e2f42;
+  }
 
 h1 {
   font-size: 56px;
@@ -195,4 +195,14 @@ a
 {
 display: flex;
 gap: 24px;
+}
+
+/* section-two */
+
+.our-list_
+{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
