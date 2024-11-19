@@ -60,11 +60,11 @@ ul {
 .span {
   color: #2e2f42;
 }
-.header-item {
+.header {
   border-bottom: 1px solid #e7e9fc;
   height: 72px;
 }
-.hero-title {
+.hero-header {
   max-width: 496px;
 }
 .header-div {
