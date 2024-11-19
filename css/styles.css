@@ -205,7 +205,7 @@ ul {
   row-gap: 48px;
 }
 
-.section-ul.four .list_end {
+.section-ul.four .list.end {
   margin-bottom: 48px;
   width: calc((100% - 48px) / 3);
 }
