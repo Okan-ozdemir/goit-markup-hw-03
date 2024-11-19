@@ -258,6 +258,9 @@ ul {
   background-color: #ffffff;
   padding: 120px 0;
 }
+.section-header {
+  margin-bottom: 72px;
+}
 
 /*section-footer*/
 
