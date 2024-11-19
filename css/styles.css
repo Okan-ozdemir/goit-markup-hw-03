@@ -64,6 +64,9 @@ ul {
   border-bottom: 1px solid #e7e9fc;
   height: 72px;
 }
+.hero-title {
+  max-width: 496px;
+}
 .header-div {
   display: flex;
   height: 100%;
