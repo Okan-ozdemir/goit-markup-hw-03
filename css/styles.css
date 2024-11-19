@@ -220,7 +220,7 @@ ul {
   border-radius: 0px 0px 4px 4px;
 }
 
-.section-ul .list.section-second-list {
+.section-ul .about-item {
   width: calc((100% - 72px) / 4);
 }
 
